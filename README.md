@@ -1,3 +1,4 @@
 # kuchu-puchu
-my first repository
-author-parika jain
+My first repository
+<br>
+Author-parika jain
